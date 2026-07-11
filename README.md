@@ -3,10 +3,10 @@
 A command-line tool that checks a website's health, security posture, and SSL certificate status — and turns the results into a single readable report with an overall score.
 
 I built this to learn how real web infrastructure works under the hood: HTTP status codes, TLS handshakes, security headers, redirect chains, and how to turn raw network data into something a non-technical person could actually read.
----
-Streamlit Link
+___
+Streamlit Link:
 https://web-health-scanner-99.streamlit.app/
----
+___
 
 ## What it checks
 
